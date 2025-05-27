@@ -2,14 +2,16 @@
 ----
 ## About Me
 I'm studying Computer Science @ San Jose State University. <br/>
-My coding journey began at 10 years old modding Minecraft items and making websites at [Galileo Summer Camps](https://galileo-camps.com/). Now, I work with full-stack frameworks and ML.
-
+My coding journey began at 10 years old, modding Minecraft items and making websites at [Galileo Summer Camps](https://galileo-camps.com/). Now, I work with full-stack frameworks and ML.
+## :briefcase: Credentials
+Experience:
+- AI Data Scientist Intern @ Cytokinetics
 ## :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
 - Refining backend skills as a Web Dev at ML@SJSU
 - Building fun/useful AI models
 - Grinding LeetCode
-- Applying to internships
+- Applying for jobs
 ## :toolbox: Tech Stack
 [![Langs](https://skillicons.dev/icons?i=java,js,py,c,cpp,sqlite&theme=dark)](https://skillicons.dev)
 <br/>
