@@ -15,6 +15,6 @@ Experience:
 ## :toolbox: Tech Stack
 [![Langs](https://skillicons.dev/icons?i=java,js,py,c,cpp,sqlite&theme=dark)](https://skillicons.dev)
 <br/>
-[![Tools](https://skillicons.dev/icons?i=aws,spotfire,firebase,git,opencv,tensorflow,vercel&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,d3,firebase,git,opencv,tensorflow,vercel&theme=dark)](https://skillicons.dev)
 <br/>
 [![Web Dev](https://skillicons.dev/icons?i=django,nextjs,nodejs,react,tailwind,ts,vue,vite,css,html&theme=dark)](https://skillicons.dev)
