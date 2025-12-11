@@ -10,12 +10,12 @@ Experience:
 ## :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
 - Working at Cytokinetics
-- Making impactful applications of AI
+- Making impactful AI and Data Analysis applications
 - Grinding NeetCode
 - Applying for internships
 ## :toolbox: Tech Stack
 [![Langs](https://skillicons.dev/icons?i=java,js,py,c,cpp,sql&theme=dark)](https://skillicons.dev)
 <br/>
-[![Tools](https://skillicons.dev/icons?i=aws,postgres,sqlite,d3,firebase,git,opencv,pytorch,vercel&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,postgres,sqlite,d3,firebase,git,postman,opencv,pytorch,vercel&theme=dark)](https://skillicons.dev)
 <br/>
 [![Web Dev](https://skillicons.dev/icons?i=django,nextjs,nodejs,react,tailwind,ts,vue,vite,css,html&theme=dark)](https://skillicons.dev)
