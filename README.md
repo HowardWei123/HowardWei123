@@ -2,17 +2,17 @@
 ----
 ## About Me
 I'm studying Computer Science @ San Jose State University. <br/>
-My coding journey began at 10 years old, modding Minecraft items and making websites at [Galileo Summer Camps](https://galileo-camps.com/). Now, I work with full-stack frameworks and ML.
+My coding journey began at 10 years old, modding Minecraft tools and making websites at [Galileo Summer Camps](https://galileo-camps.com/). Now, I work with full-stack frameworks and ML.
 ## :briefcase: Credentials
 Experience:
 - Clinical Systems Specialist @ Cytokinetics
 - Informatics Intern @ Cytokinetics
 ## :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
-- Working at Cytokinetics
-- Making impactful AI and Data Analysis applications
+- Working as a Contractor
+- Building ML and Data Analysis Projects
 - Grinding NeetCode
-- Applying for internships
+- Applying for internships and new grad
 ## :toolbox: Tech Stack
 [![Langs](https://skillicons.dev/icons?i=java,js,py,c,cpp,sql&theme=dark)](https://skillicons.dev)
 <br/>
