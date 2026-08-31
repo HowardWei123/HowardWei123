@@ -9,7 +9,7 @@ Experience:
 - Informatics Intern @ Cytokinetics
 ## :round_pushpin: What Am I Doing?
 :clipboard: Currently I am:
-- Working as a Contractor
+- Contract Work and TAing
 - Building ML and Data Analysis Projects
 - Grinding NeetCode
 - Applying for internships and new grad
